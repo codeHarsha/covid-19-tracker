@@ -1,6 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Follow below Commands to run this COVID 19 Tracker in local
 
 In the project directory, you can run:
 
